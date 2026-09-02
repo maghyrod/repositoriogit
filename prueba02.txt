@@ -1,0 +1,1 @@
+" Este es el segundo archivo de prueba. fue creado para practicar comanods de git y github. Laboratorio de sist. 2026
